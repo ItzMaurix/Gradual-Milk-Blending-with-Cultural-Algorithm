@@ -1,0 +1,9 @@
+# Parametros a sintonizar con irace (V2 - definitiva)
+
+pop_size        "--pop "             i (25, 40)
+elite_size      "--elite-size "      i (3, 8)
+pm              "--pm "              r (0.05, 0.20)
+tour_k          "--tour "            i (2, 5)
+k_rcl           "--k_rcl "           i (2, 6)
+archive_size    "--archive-size "    i (0, 12)
+w_attract       "--w-attract "       r (1.5, 2.5) | archive_size > 0

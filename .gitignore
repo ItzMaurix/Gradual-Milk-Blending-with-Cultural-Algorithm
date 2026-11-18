@@ -1,0 +1,40 @@
+# ===== Compiled binary =====
+gmb
+
+# ===== Object files =====
+*.o
+src/**/*.o
+src/*/*.o
+
+# ===== IDE / editor =====
+.vscode/
+.idea/
+*.swp
+*~
+
+# ===== OS =====
+.DS_Store
+Thumbs.db
+
+# ===== irace artifacts (regenerable) =====
+tuning/irace.log
+tuning/irace.Rdata
+tuning/allConfigurations.Rdata
+tuning/elite-configurations.Rdata
+tuning/c[0-9]*/
+
+# ===== Discarded pilot run =====
+tuning/pilot-run-v1/
+
+# ===== Large logs (regenerable with gen_all_convergence.sh) =====
+results/conv_logs/*.log
+results/conv_logs_run.log
+
+# ===== Python cache =====
+__pycache__/
+*.pyc
+
+# ===== Entrega final (no van al repo) =====
+Ramos-Mauricio.zip
+Ramos-Mauricio/
+*.pdf

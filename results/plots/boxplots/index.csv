@@ -1,0 +1,15 @@
+file,subset,part,total_parts,n_instances,instances
+box_dist2_01.png,dist2,1,5,10,mn121; mn101; eil23; tai100D; eil30; f135; tai100A; tai100B; tai100C; eil22
+box_dist2_02.png,dist2,2,5,10,eil33; a62; a54; f45; a60; a37; a32; a55; a65; a69
+box_dist2_03.png,dist2,3,5,10,a64; a36; a63; a33; a38; a80; a34; tai75C; a39; a44
+box_dist2_04.png,dist2,4,5,10,a45; att48; a46; a48; tai75A; a53; tai75D; tai75B; eil31; c50
+box_dist2_05.png,dist2,5,5,7,eil51; a61; f71; a72; eil76A; c75; eil101
+box_dist1_01.png,dist1,1,5,10,mn121; mn101; eil30; f135; eil23; tai100D; tai100A; tai100B; tai100C; eil22
+box_dist1_02.png,dist1,2,5,10,a62; eil33; a55; a60; a54; f45; a37; a65; a69; a32
+box_dist1_03.png,dist1,3,5,10,a64; att48; a63; tai75C; a36; a38; a39; a80; a34; a33
+box_dist1_04.png,dist1,4,5,10,a45; a48; a44; tai75A; tai75D; a46; tai75B; a53; eil51; c50
+box_dist1_05.png,dist1,5,5,7,a61; eil31; f71; eil101; a72; eil76A; c75
+box_clusters_01.png,clusters,1,3,10,c25; c7; c11; c23; c24; c16; c4; c20; c2; c13
+box_clusters_02.png,clusters,2,3,10,c12; c21; c10; c5; c1; c17; c15; c6; c22; c9
+box_clusters_03.png,clusters,3,3,5,c19; c14; c3; c18; c8
+box_cALL_01.png,cALL,1,1,5,cALL-cap26; cALL-cap28; cALL-20C; cALL; cALL-25C

@@ -1,0 +1,6 @@
+execDir = "/tmp/gmb"
+parameterFile = "/tmp/gmb/tuning/parameters.txt"
+targetRunner = "/tmp/gmb/tuning/target-runner.sh"
+trainInstancesDir = "/tmp/gmb/tuning/instances"
+maxExperiments = 5000
+seed = 1
